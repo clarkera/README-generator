@@ -1,33 +1,13 @@
-  # Test Title  
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-blue.svg)](https://opensource.org/licenses/MPL%202.0) 
+# README Generator
 
-  ## Description
-  Test desc
+## Description
+This application was created using node.js to create professional README.md docs from the command line.It was created to reduce the amount of time developers are using to write README.md files. This gives developers more time for creating and maintaining their applications. 
 
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
+## Video Link 
+https://youtu.be/KG5xstepmvA 
 
-  ## Installation
-  Test Insruction
-  
-  ## Usage
-  '''bash
-    Usage info
-  '''
-  
-  ## License
-  Copyright (c) tester. All rights reserved.
-  Licensed under the [MPL 2.0](https://opensource.org/licenses/MPL%202.0) license. 
-  
-  ## How to Contribute
-  Guidleines
+## Screenshots
 
-  ## Tests  
-  test instructions
+![alt text](image.png)
 
-  ## Questions?
-  GitHub [tester](https://github.com/tester)
-  How to reach me with additional questions ? - [tester@gmail.com](mailto://tester@gmail.com)
+![alt text](image-1.png)
